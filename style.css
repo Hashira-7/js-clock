@@ -1,6 +1,6 @@
 #clock-container{
-    width: 60vh;
-    height: 60vh;
+    width: 50vw;
+    height: 50vw;
     background: url(./clock.png) no-repeat;
     border: 10px solid red;
     background-size: 100%;
